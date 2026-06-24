@@ -1,0 +1,38 @@
+{
+    "ArcadeCar": {
+        "checkpoints": [
+            {
+                "steps": 499968,
+                "file_path": "results\\training006\\ArcadeCar\\ArcadeCar-499968.onnx",
+                "reward": 0.2666904067310194,
+                "creation_time": 1773267658.0523205,
+                "auxillary_file_paths": [
+                    "results\\training006\\ArcadeCar\\ArcadeCar-499968.pt"
+                ]
+            },
+            {
+                "steps": 727295,
+                "file_path": "results\\training006\\ArcadeCar\\ArcadeCar-727295.onnx",
+                "reward": 0.3834284854431947,
+                "creation_time": 1773268680.89562,
+                "auxillary_file_paths": [
+                    "results\\training006\\ArcadeCar\\ArcadeCar-727295.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 727295,
+            "file_path": "results\\training006\\ArcadeCar.onnx",
+            "reward": 0.3834284854431947,
+            "creation_time": 1773268680.89562,
+            "auxillary_file_paths": [
+                "results\\training006\\ArcadeCar\\ArcadeCar-727295.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "1.2.0.dev0",
+        "torch_version": "2.2.2+cu121"
+    }
+}
