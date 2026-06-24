@@ -1,0 +1,56 @@
+{
+    "ArcadeCar": {
+        "checkpoints": [
+            {
+                "steps": 499910,
+                "file_path": "results\\training016\\ArcadeCar\\ArcadeCar-499910.onnx",
+                "reward": 0.5376219863333461,
+                "creation_time": 1776969996.8852,
+                "auxillary_file_paths": [
+                    "results\\training016\\ArcadeCar\\ArcadeCar-499910.pt"
+                ]
+            },
+            {
+                "steps": 999882,
+                "file_path": "results\\training016\\ArcadeCar\\ArcadeCar-999882.onnx",
+                "reward": 1.351611413876526,
+                "creation_time": 1776972911.6533716,
+                "auxillary_file_paths": [
+                    "results\\training016\\ArcadeCar\\ArcadeCar-999882.pt"
+                ]
+            },
+            {
+                "steps": 1499880,
+                "file_path": "results\\training016\\ArcadeCar\\ArcadeCar-1499880.onnx",
+                "reward": 1.7307031271338928,
+                "creation_time": 1776976772.3757408,
+                "auxillary_file_paths": [
+                    "results\\training016\\ArcadeCar\\ArcadeCar-1499880.pt"
+                ]
+            },
+            {
+                "steps": 1549455,
+                "file_path": "results\\training016\\ArcadeCar\\ArcadeCar-1549455.onnx",
+                "reward": 2.162129304694886,
+                "creation_time": 1776976969.0250497,
+                "auxillary_file_paths": [
+                    "results\\training016\\ArcadeCar\\ArcadeCar-1549455.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 1549455,
+            "file_path": "results\\training016\\ArcadeCar.onnx",
+            "reward": 2.162129304694886,
+            "creation_time": 1776976969.0250497,
+            "auxillary_file_paths": [
+                "results\\training016\\ArcadeCar\\ArcadeCar-1549455.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "1.2.0.dev0",
+        "torch_version": "2.2.2+cu121"
+    }
+}
