@@ -1,0 +1,299 @@
+{
+    "ArcadeCar": {
+        "checkpoints": [
+            {
+                "steps": 99901,
+                "file_path": "results\\training024\\ArcadeCar\\ArcadeCar-99901.onnx",
+                "reward": 0.037676285334124135,
+                "creation_time": 1778760751.6961002,
+                "auxillary_file_paths": [
+                    "results\\training024\\ArcadeCar\\ArcadeCar-99901.pt"
+                ]
+            },
+            {
+                "steps": 199946,
+                "file_path": "results\\training024\\ArcadeCar\\ArcadeCar-199946.onnx",
+                "reward": 1.834445273426051,
+                "creation_time": 1778761009.4236727,
+                "auxillary_file_paths": [
+                    "results\\training024\\ArcadeCar\\ArcadeCar-199946.pt"
+                ]
+            },
+            {
+                "steps": 299953,
+                "file_path": "results\\training024\\ArcadeCar\\ArcadeCar-299953.onnx",
+                "reward": 2.036469335390909,
+                "creation_time": 1778761276.3553903,
+                "auxillary_file_paths": [
+                    "results\\training024\\ArcadeCar\\ArcadeCar-299953.pt"
+                ]
+            },
+            {
+                "steps": 399873,
+                "file_path": "results\\training024\\ArcadeCar\\ArcadeCar-399873.onnx",
+                "reward": 2.4129154066996357,
+                "creation_time": 1778761536.013486,
+                "auxillary_file_paths": [
+                    "results\\training024\\ArcadeCar\\ArcadeCar-399873.pt"
+                ]
+            },
+            {
+                "steps": 499993,
+                "file_path": "results\\training024\\ArcadeCar\\ArcadeCar-499993.onnx",
+                "reward": 2.536991934127667,
+                "creation_time": 1778761849.5519776,
+                "auxillary_file_paths": [
+                    "results\\training024\\ArcadeCar\\ArcadeCar-499993.pt"
+                ]
+            },
+            {
+                "steps": 599914,
+                "file_path": "results\\training024\\ArcadeCar\\ArcadeCar-599914.onnx",
+                "reward": 2.5428475996381357,
+                "creation_time": 1778762168.3637881,
+                "auxillary_file_paths": [
+                    "results\\training024\\ArcadeCar\\ArcadeCar-599914.pt"
+                ]
+            },
+            {
+                "steps": 699873,
+                "file_path": "results\\training024\\ArcadeCar\\ArcadeCar-699873.onnx",
+                "reward": 2.6023381114006043,
+                "creation_time": 1778762495.3938808,
+                "auxillary_file_paths": [
+                    "results\\training024\\ArcadeCar\\ArcadeCar-699873.pt"
+                ]
+            },
+            {
+                "steps": 799968,
+                "file_path": "results\\training024\\ArcadeCar\\ArcadeCar-799968.onnx",
+                "reward": 2.650390264548121,
+                "creation_time": 1778762835.774337,
+                "auxillary_file_paths": [
+                    "results\\training024\\ArcadeCar\\ArcadeCar-799968.pt"
+                ]
+            },
+            {
+                "steps": 899996,
+                "file_path": "results\\training024\\ArcadeCar\\ArcadeCar-899996.onnx",
+                "reward": 2.656530475243926,
+                "creation_time": 1778763192.383887,
+                "auxillary_file_paths": [
+                    "results\\training024\\ArcadeCar\\ArcadeCar-899996.pt"
+                ]
+            },
+            {
+                "steps": 999924,
+                "file_path": "results\\training024\\ArcadeCar\\ArcadeCar-999924.onnx",
+                "reward": 2.667220516328482,
+                "creation_time": 1778763549.3791084,
+                "auxillary_file_paths": [
+                    "results\\training024\\ArcadeCar\\ArcadeCar-999924.pt"
+                ]
+            },
+            {
+                "steps": 1099886,
+                "file_path": "results\\training024\\ArcadeCar\\ArcadeCar-1099886.onnx",
+                "reward": 2.641170098797067,
+                "creation_time": 1778763911.4181945,
+                "auxillary_file_paths": [
+                    "results\\training024\\ArcadeCar\\ArcadeCar-1099886.pt"
+                ]
+            },
+            {
+                "steps": 1199919,
+                "file_path": "results\\training024\\ArcadeCar\\ArcadeCar-1199919.onnx",
+                "reward": 2.693979845382273,
+                "creation_time": 1778764266.8223825,
+                "auxillary_file_paths": [
+                    "results\\training024\\ArcadeCar\\ArcadeCar-1199919.pt"
+                ]
+            },
+            {
+                "steps": 1299916,
+                "file_path": "results\\training024\\ArcadeCar\\ArcadeCar-1299916.onnx",
+                "reward": 2.700537070631981,
+                "creation_time": 1778764603.4034321,
+                "auxillary_file_paths": [
+                    "results\\training024\\ArcadeCar\\ArcadeCar-1299916.pt"
+                ]
+            },
+            {
+                "steps": 1399976,
+                "file_path": "results\\training024\\ArcadeCar\\ArcadeCar-1399976.onnx",
+                "reward": 2.727128408171914,
+                "creation_time": 1778764949.0900912,
+                "auxillary_file_paths": [
+                    "results\\training024\\ArcadeCar\\ArcadeCar-1399976.pt"
+                ]
+            },
+            {
+                "steps": 1499951,
+                "file_path": "results\\training024\\ArcadeCar\\ArcadeCar-1499951.onnx",
+                "reward": 2.7047592278682826,
+                "creation_time": 1778765288.8720016,
+                "auxillary_file_paths": [
+                    "results\\training024\\ArcadeCar\\ArcadeCar-1499951.pt"
+                ]
+            },
+            {
+                "steps": 1599941,
+                "file_path": "results\\training024\\ArcadeCar\\ArcadeCar-1599941.onnx",
+                "reward": 2.703995395604878,
+                "creation_time": 1778765641.307542,
+                "auxillary_file_paths": [
+                    "results\\training024\\ArcadeCar\\ArcadeCar-1599941.pt"
+                ]
+            },
+            {
+                "steps": 1699941,
+                "file_path": "results\\training024\\ArcadeCar\\ArcadeCar-1699941.onnx",
+                "reward": 2.701320492119893,
+                "creation_time": 1778765992.685764,
+                "auxillary_file_paths": [
+                    "results\\training024\\ArcadeCar\\ArcadeCar-1699941.pt"
+                ]
+            },
+            {
+                "steps": 1799986,
+                "file_path": "results\\training024\\ArcadeCar\\ArcadeCar-1799986.onnx",
+                "reward": 2.6297602323434686,
+                "creation_time": 1778766340.253757,
+                "auxillary_file_paths": [
+                    "results\\training024\\ArcadeCar\\ArcadeCar-1799986.pt"
+                ]
+            },
+            {
+                "steps": 1899989,
+                "file_path": "results\\training024\\ArcadeCar\\ArcadeCar-1899989.onnx",
+                "reward": 2.7045163279160476,
+                "creation_time": 1778766691.6739902,
+                "auxillary_file_paths": [
+                    "results\\training024\\ArcadeCar\\ArcadeCar-1899989.pt"
+                ]
+            },
+            {
+                "steps": 1999974,
+                "file_path": "results\\training024\\ArcadeCar\\ArcadeCar-1999974.onnx",
+                "reward": 2.6682252520221774,
+                "creation_time": 1778767042.8266528,
+                "auxillary_file_paths": [
+                    "results\\training024\\ArcadeCar\\ArcadeCar-1999974.pt"
+                ]
+            },
+            {
+                "steps": 2099944,
+                "file_path": "results\\training024\\ArcadeCar\\ArcadeCar-2099944.onnx",
+                "reward": 2.6475368440151215,
+                "creation_time": 1778767394.557533,
+                "auxillary_file_paths": [
+                    "results\\training024\\ArcadeCar\\ArcadeCar-2099944.pt"
+                ]
+            },
+            {
+                "steps": 2199980,
+                "file_path": "results\\training024\\ArcadeCar\\ArcadeCar-2199980.onnx",
+                "reward": 2.6436379643586965,
+                "creation_time": 1778767747.165884,
+                "auxillary_file_paths": [
+                    "results\\training024\\ArcadeCar\\ArcadeCar-2199980.pt"
+                ]
+            },
+            {
+                "steps": 2299892,
+                "file_path": "results\\training024\\ArcadeCar\\ArcadeCar-2299892.onnx",
+                "reward": 2.6962503921004792,
+                "creation_time": 1778768086.1957476,
+                "auxillary_file_paths": [
+                    "results\\training024\\ArcadeCar\\ArcadeCar-2299892.pt"
+                ]
+            },
+            {
+                "steps": 2399926,
+                "file_path": "results\\training024\\ArcadeCar\\ArcadeCar-2399926.onnx",
+                "reward": 2.7130446125429573,
+                "creation_time": 1778768432.750342,
+                "auxillary_file_paths": [
+                    "results\\training024\\ArcadeCar\\ArcadeCar-2399926.pt"
+                ]
+            },
+            {
+                "steps": 2499988,
+                "file_path": "results\\training024\\ArcadeCar\\ArcadeCar-2499988.onnx",
+                "reward": 2.700541589409113,
+                "creation_time": 1778768789.6345131,
+                "auxillary_file_paths": [
+                    "results\\training024\\ArcadeCar\\ArcadeCar-2499988.pt"
+                ]
+            },
+            {
+                "steps": 2599955,
+                "file_path": "results\\training024\\ArcadeCar\\ArcadeCar-2599955.onnx",
+                "reward": 2.697991060995564,
+                "creation_time": 1778769141.2194872,
+                "auxillary_file_paths": [
+                    "results\\training024\\ArcadeCar\\ArcadeCar-2599955.pt"
+                ]
+            },
+            {
+                "steps": 2699931,
+                "file_path": "results\\training024\\ArcadeCar\\ArcadeCar-2699931.onnx",
+                "reward": 2.6980630131928542,
+                "creation_time": 1778769492.96315,
+                "auxillary_file_paths": [
+                    "results\\training024\\ArcadeCar\\ArcadeCar-2699931.pt"
+                ]
+            },
+            {
+                "steps": 2799890,
+                "file_path": "results\\training024\\ArcadeCar\\ArcadeCar-2799890.onnx",
+                "reward": 2.662907462853652,
+                "creation_time": 1778769853.1157558,
+                "auxillary_file_paths": [
+                    "results\\training024\\ArcadeCar\\ArcadeCar-2799890.pt"
+                ]
+            },
+            {
+                "steps": 2899961,
+                "file_path": "results\\training024\\ArcadeCar\\ArcadeCar-2899961.onnx",
+                "reward": 2.7165825764338174,
+                "creation_time": 1778770205.8548474,
+                "auxillary_file_paths": [
+                    "results\\training024\\ArcadeCar\\ArcadeCar-2899961.pt"
+                ]
+            },
+            {
+                "steps": 2999940,
+                "file_path": "results\\training024\\ArcadeCar\\ArcadeCar-2999940.onnx",
+                "reward": 2.7487540245056152,
+                "creation_time": 1778770554.4255958,
+                "auxillary_file_paths": [
+                    "results\\training024\\ArcadeCar\\ArcadeCar-2999940.pt"
+                ]
+            },
+            {
+                "steps": 3000033,
+                "file_path": "results\\training024\\ArcadeCar\\ArcadeCar-3000033.onnx",
+                "reward": 2.7504298289616904,
+                "creation_time": 1778770554.6056123,
+                "auxillary_file_paths": [
+                    "results\\training024\\ArcadeCar\\ArcadeCar-3000033.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 3000033,
+            "file_path": "results\\training024\\ArcadeCar.onnx",
+            "reward": 2.7504298289616904,
+            "creation_time": 1778770554.6056123,
+            "auxillary_file_paths": [
+                "results\\training024\\ArcadeCar\\ArcadeCar-3000033.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "1.1.0",
+        "torch_version": "2.2.2+cu121"
+    }
+}
