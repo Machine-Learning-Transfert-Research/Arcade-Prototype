@@ -1,4 +1,9 @@
 # Machine Learning Transfer Research: Arcade Prototype
+
+<p align="center">
+    <img src="./Readme/arcade.png" width="576" height="324" alt="arcade game"/>
+</p>
+
 Arcade prototype for the research project: [**Evaluating transfer learning for reinforcement learning agents across same-genre video games**](https://github.com/Machine-Learning-Transfert-Research) <br>
 Research project carried out in partnership between [PulluP Entertainment](https://pullupent.com/en) and [ISART Digital Paris](https://www.isart.fr/)
 
