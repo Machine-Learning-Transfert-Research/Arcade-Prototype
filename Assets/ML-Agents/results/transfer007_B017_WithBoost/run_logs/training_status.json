@@ -1,0 +1,299 @@
+{
+    "ArcadeCar": {
+        "checkpoints": [
+            {
+                "steps": 99916,
+                "file_path": "results\\transfer007_B017_WithBoost\\ArcadeCar\\ArcadeCar-99916.onnx",
+                "reward": 1.862219755746313,
+                "creation_time": 1778880443.1718853,
+                "auxillary_file_paths": [
+                    "results\\transfer007_B017_WithBoost\\ArcadeCar\\ArcadeCar-99916.pt"
+                ]
+            },
+            {
+                "steps": 199923,
+                "file_path": "results\\transfer007_B017_WithBoost\\ArcadeCar\\ArcadeCar-199923.onnx",
+                "reward": 2.148937063084708,
+                "creation_time": 1778881055.3654764,
+                "auxillary_file_paths": [
+                    "results\\transfer007_B017_WithBoost\\ArcadeCar\\ArcadeCar-199923.pt"
+                ]
+            },
+            {
+                "steps": 299941,
+                "file_path": "results\\transfer007_B017_WithBoost\\ArcadeCar\\ArcadeCar-299941.onnx",
+                "reward": 2.2711519462577368,
+                "creation_time": 1778881842.9121182,
+                "auxillary_file_paths": [
+                    "results\\transfer007_B017_WithBoost\\ArcadeCar\\ArcadeCar-299941.pt"
+                ]
+            },
+            {
+                "steps": 399902,
+                "file_path": "results\\transfer007_B017_WithBoost\\ArcadeCar\\ArcadeCar-399902.onnx",
+                "reward": 2.16823295156161,
+                "creation_time": 1778882607.205587,
+                "auxillary_file_paths": [
+                    "results\\transfer007_B017_WithBoost\\ArcadeCar\\ArcadeCar-399902.pt"
+                ]
+            },
+            {
+                "steps": 499968,
+                "file_path": "results\\transfer007_B017_WithBoost\\ArcadeCar\\ArcadeCar-499968.onnx",
+                "reward": 2.467396631640823,
+                "creation_time": 1778883385.9563243,
+                "auxillary_file_paths": [
+                    "results\\transfer007_B017_WithBoost\\ArcadeCar\\ArcadeCar-499968.pt"
+                ]
+            },
+            {
+                "steps": 599898,
+                "file_path": "results\\transfer007_B017_WithBoost\\ArcadeCar\\ArcadeCar-599898.onnx",
+                "reward": 2.601967437991074,
+                "creation_time": 1778884177.376182,
+                "auxillary_file_paths": [
+                    "results\\transfer007_B017_WithBoost\\ArcadeCar\\ArcadeCar-599898.pt"
+                ]
+            },
+            {
+                "steps": 699937,
+                "file_path": "results\\transfer007_B017_WithBoost\\ArcadeCar\\ArcadeCar-699937.onnx",
+                "reward": 2.7003598538312046,
+                "creation_time": 1778884994.728654,
+                "auxillary_file_paths": [
+                    "results\\transfer007_B017_WithBoost\\ArcadeCar\\ArcadeCar-699937.pt"
+                ]
+            },
+            {
+                "steps": 799962,
+                "file_path": "results\\transfer007_B017_WithBoost\\ArcadeCar\\ArcadeCar-799962.onnx",
+                "reward": 2.646189226620439,
+                "creation_time": 1778885811.383863,
+                "auxillary_file_paths": [
+                    "results\\transfer007_B017_WithBoost\\ArcadeCar\\ArcadeCar-799962.pt"
+                ]
+            },
+            {
+                "steps": 899995,
+                "file_path": "results\\transfer007_B017_WithBoost\\ArcadeCar\\ArcadeCar-899995.onnx",
+                "reward": 2.6358751278739794,
+                "creation_time": 1778886636.268495,
+                "auxillary_file_paths": [
+                    "results\\transfer007_B017_WithBoost\\ArcadeCar\\ArcadeCar-899995.pt"
+                ]
+            },
+            {
+                "steps": 999993,
+                "file_path": "results\\transfer007_B017_WithBoost\\ArcadeCar\\ArcadeCar-999993.onnx",
+                "reward": 2.6528602215647696,
+                "creation_time": 1778887474.0815601,
+                "auxillary_file_paths": [
+                    "results\\transfer007_B017_WithBoost\\ArcadeCar\\ArcadeCar-999993.pt"
+                ]
+            },
+            {
+                "steps": 1099958,
+                "file_path": "results\\transfer007_B017_WithBoost\\ArcadeCar\\ArcadeCar-1099958.onnx",
+                "reward": 2.7242573466565876,
+                "creation_time": 1778888313.400192,
+                "auxillary_file_paths": [
+                    "results\\transfer007_B017_WithBoost\\ArcadeCar\\ArcadeCar-1099958.pt"
+                ]
+            },
+            {
+                "steps": 1199896,
+                "file_path": "results\\transfer007_B017_WithBoost\\ArcadeCar\\ArcadeCar-1199896.onnx",
+                "reward": 2.6994512623450797,
+                "creation_time": 1778889155.3527904,
+                "auxillary_file_paths": [
+                    "results\\transfer007_B017_WithBoost\\ArcadeCar\\ArcadeCar-1199896.pt"
+                ]
+            },
+            {
+                "steps": 1299927,
+                "file_path": "results\\transfer007_B017_WithBoost\\ArcadeCar\\ArcadeCar-1299927.onnx",
+                "reward": 2.6950361998157297,
+                "creation_time": 1778890008.4036489,
+                "auxillary_file_paths": [
+                    "results\\transfer007_B017_WithBoost\\ArcadeCar\\ArcadeCar-1299927.pt"
+                ]
+            },
+            {
+                "steps": 1399889,
+                "file_path": "results\\transfer007_B017_WithBoost\\ArcadeCar\\ArcadeCar-1399889.onnx",
+                "reward": 2.7157666981220245,
+                "creation_time": 1778890863.5862207,
+                "auxillary_file_paths": [
+                    "results\\transfer007_B017_WithBoost\\ArcadeCar\\ArcadeCar-1399889.pt"
+                ]
+            },
+            {
+                "steps": 1499979,
+                "file_path": "results\\transfer007_B017_WithBoost\\ArcadeCar\\ArcadeCar-1499979.onnx",
+                "reward": 2.619943141937256,
+                "creation_time": 1778891715.430498,
+                "auxillary_file_paths": [
+                    "results\\transfer007_B017_WithBoost\\ArcadeCar\\ArcadeCar-1499979.pt"
+                ]
+            },
+            {
+                "steps": 1599909,
+                "file_path": "results\\transfer007_B017_WithBoost\\ArcadeCar\\ArcadeCar-1599909.onnx",
+                "reward": 2.5993697124458577,
+                "creation_time": 1778892562.5563455,
+                "auxillary_file_paths": [
+                    "results\\transfer007_B017_WithBoost\\ArcadeCar\\ArcadeCar-1599909.pt"
+                ]
+            },
+            {
+                "steps": 1699926,
+                "file_path": "results\\transfer007_B017_WithBoost\\ArcadeCar\\ArcadeCar-1699926.onnx",
+                "reward": 2.4808340978650554,
+                "creation_time": 1778893414.345604,
+                "auxillary_file_paths": [
+                    "results\\transfer007_B017_WithBoost\\ArcadeCar\\ArcadeCar-1699926.pt"
+                ]
+            },
+            {
+                "steps": 1799910,
+                "file_path": "results\\transfer007_B017_WithBoost\\ArcadeCar\\ArcadeCar-1799910.onnx",
+                "reward": 2.5918757699348114,
+                "creation_time": 1778894261.044078,
+                "auxillary_file_paths": [
+                    "results\\transfer007_B017_WithBoost\\ArcadeCar\\ArcadeCar-1799910.pt"
+                ]
+            },
+            {
+                "steps": 1899950,
+                "file_path": "results\\transfer007_B017_WithBoost\\ArcadeCar\\ArcadeCar-1899950.onnx",
+                "reward": 2.7067555756795976,
+                "creation_time": 1778895109.0670772,
+                "auxillary_file_paths": [
+                    "results\\transfer007_B017_WithBoost\\ArcadeCar\\ArcadeCar-1899950.pt"
+                ]
+            },
+            {
+                "steps": 1999990,
+                "file_path": "results\\transfer007_B017_WithBoost\\ArcadeCar\\ArcadeCar-1999990.onnx",
+                "reward": 2.644975043576339,
+                "creation_time": 1778895949.2325883,
+                "auxillary_file_paths": [
+                    "results\\transfer007_B017_WithBoost\\ArcadeCar\\ArcadeCar-1999990.pt"
+                ]
+            },
+            {
+                "steps": 2099918,
+                "file_path": "results\\transfer007_B017_WithBoost\\ArcadeCar\\ArcadeCar-2099918.onnx",
+                "reward": 2.6744460701942443,
+                "creation_time": 1778896806.9299638,
+                "auxillary_file_paths": [
+                    "results\\transfer007_B017_WithBoost\\ArcadeCar\\ArcadeCar-2099918.pt"
+                ]
+            },
+            {
+                "steps": 2199934,
+                "file_path": "results\\transfer007_B017_WithBoost\\ArcadeCar\\ArcadeCar-2199934.onnx",
+                "reward": 2.569357907399535,
+                "creation_time": 1778897686.3488011,
+                "auxillary_file_paths": [
+                    "results\\transfer007_B017_WithBoost\\ArcadeCar\\ArcadeCar-2199934.pt"
+                ]
+            },
+            {
+                "steps": 2299923,
+                "file_path": "results\\transfer007_B017_WithBoost\\ArcadeCar\\ArcadeCar-2299923.onnx",
+                "reward": 2.705228216676827,
+                "creation_time": 1778898569.2568853,
+                "auxillary_file_paths": [
+                    "results\\transfer007_B017_WithBoost\\ArcadeCar\\ArcadeCar-2299923.pt"
+                ]
+            },
+            {
+                "steps": 2399965,
+                "file_path": "results\\transfer007_B017_WithBoost\\ArcadeCar\\ArcadeCar-2399965.onnx",
+                "reward": 2.679412205110897,
+                "creation_time": 1778899431.340981,
+                "auxillary_file_paths": [
+                    "results\\transfer007_B017_WithBoost\\ArcadeCar\\ArcadeCar-2399965.pt"
+                ]
+            },
+            {
+                "steps": 2499999,
+                "file_path": "results\\transfer007_B017_WithBoost\\ArcadeCar\\ArcadeCar-2499999.onnx",
+                "reward": 2.7004614866386025,
+                "creation_time": 1778900284.7354221,
+                "auxillary_file_paths": [
+                    "results\\transfer007_B017_WithBoost\\ArcadeCar\\ArcadeCar-2499999.pt"
+                ]
+            },
+            {
+                "steps": 2599968,
+                "file_path": "results\\transfer007_B017_WithBoost\\ArcadeCar\\ArcadeCar-2599968.onnx",
+                "reward": 2.685651072348007,
+                "creation_time": 1778901151.404043,
+                "auxillary_file_paths": [
+                    "results\\transfer007_B017_WithBoost\\ArcadeCar\\ArcadeCar-2599968.pt"
+                ]
+            },
+            {
+                "steps": 2699953,
+                "file_path": "results\\transfer007_B017_WithBoost\\ArcadeCar\\ArcadeCar-2699953.onnx",
+                "reward": 2.6159043458860314,
+                "creation_time": 1778902005.4064445,
+                "auxillary_file_paths": [
+                    "results\\transfer007_B017_WithBoost\\ArcadeCar\\ArcadeCar-2699953.pt"
+                ]
+            },
+            {
+                "steps": 2799919,
+                "file_path": "results\\transfer007_B017_WithBoost\\ArcadeCar\\ArcadeCar-2799919.onnx",
+                "reward": 2.731195187994412,
+                "creation_time": 1778902849.3687449,
+                "auxillary_file_paths": [
+                    "results\\transfer007_B017_WithBoost\\ArcadeCar\\ArcadeCar-2799919.pt"
+                ]
+            },
+            {
+                "steps": 2899996,
+                "file_path": "results\\transfer007_B017_WithBoost\\ArcadeCar\\ArcadeCar-2899996.onnx",
+                "reward": 2.7160029718952794,
+                "creation_time": 1778903710.2001438,
+                "auxillary_file_paths": [
+                    "results\\transfer007_B017_WithBoost\\ArcadeCar\\ArcadeCar-2899996.pt"
+                ]
+            },
+            {
+                "steps": 2999891,
+                "file_path": "results\\transfer007_B017_WithBoost\\ArcadeCar\\ArcadeCar-2999891.onnx",
+                "reward": 2.6751791139443717,
+                "creation_time": 1778904565.2007196,
+                "auxillary_file_paths": [
+                    "results\\transfer007_B017_WithBoost\\ArcadeCar\\ArcadeCar-2999891.pt"
+                ]
+            },
+            {
+                "steps": 3000019,
+                "file_path": "results\\transfer007_B017_WithBoost\\ArcadeCar\\ArcadeCar-3000019.onnx",
+                "reward": 2.6751791139443717,
+                "creation_time": 1778904565.5131533,
+                "auxillary_file_paths": [
+                    "results\\transfer007_B017_WithBoost\\ArcadeCar\\ArcadeCar-3000019.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 3000019,
+            "file_path": "results\\transfer007_B017_WithBoost\\ArcadeCar.onnx",
+            "reward": 2.6751791139443717,
+            "creation_time": 1778904565.5131533,
+            "auxillary_file_paths": [
+                "results\\transfer007_B017_WithBoost\\ArcadeCar\\ArcadeCar-3000019.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "1.2.0.dev0",
+        "torch_version": "2.2.2+cu121"
+    }
+}
