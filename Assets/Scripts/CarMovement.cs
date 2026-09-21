@@ -357,7 +357,7 @@ public class CarMovement : Agent
     {
         AddReward(timePenaltyReward);
 
-        //Distance From Target reward (Max reward = 1)
+        //Distance From Target reward (Max return = 1)
         if(checkpointManager.GetNextCheckpoint() != null)
         {
             float distanceFromTarget = Vector3.Distance(transform.position, checkpointManager.GetNextCheckpoint().transform.position);
