@@ -5,7 +5,7 @@ using Evaluation;
 public class ObstacleTracker : MonoBehaviour
 {
     [SerializeField] private int obstacleLayer;
-    [SerializeField] private float maxObstaclePenaltyReward = -1f;
+    [SerializeField] private float maxObstaclePenaltyReturn = -1f;
 
     [Header("References")]
     [SerializeField] private CarMovement agent;
@@ -29,7 +29,7 @@ public class ObstacleTracker : MonoBehaviour
     {
         if(IsInContactWithObstacles)
         {
-            agent.AddReward(maxObstaclePenaltyReward / agent.MaxStep);
+            agent.AddReward(maxObstaclePenaltyReturn / agent.MaxStep);
         }
     }
 
