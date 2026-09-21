@@ -114,7 +114,7 @@ public class CarMovement : Agent
     private Vector3 smoothVelTraction = Vector3.zero;
 
     [Header("Rewards")]
-    [SerializeField] private float maxTimePenaltyReward = -1;
+    [SerializeField] private float maxTimePenaltyReturn = -1;
     private float timePenaltyReward = 0f;
     private float minDistanceFromTarget = 0f;
     private float baseDistanceFromTarget = 0f;
@@ -132,7 +132,7 @@ public class CarMovement : Agent
         inputActions.Enable();
 
         smoothTimeTraction = tractionTimeDefault;
-        timePenaltyReward = maxTimePenaltyReward / MaxStep;
+        timePenaltyReward = maxTimePenaltyReturn / MaxStep;
     }
 
     public override void OnEpisodeBegin()
@@ -180,7 +180,7 @@ public class CarMovement : Agent
         else sensor.AddObservation(Vector3.zero);
 
         sensor.AddObservation(GetGroundID());
-        sensor.AddObservation(BoostGauge);
+        sensor.AddObservation(BoostGauge); // changes only in Arcade, in Simulation it will always be 0
 
         if (envTraining.Circuit)
         {
@@ -200,7 +200,7 @@ public class CarMovement : Agent
             sensor.AddObservation(Vector3.zero);
         }
 
-        sensor.AddObservation(isGrounded ? groundNormal : Vector3.up);
+        sensor.AddObservation(isGrounded ? groundNormal : Vector3.up); // Changes only in Simulation, in Arcade it will always be Vector3.up
     }
 
     public override void OnActionReceived(ActionBuffers actions)
