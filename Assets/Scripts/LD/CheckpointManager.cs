@@ -10,7 +10,7 @@ public class CheckpointManager : MonoBehaviour
     [Header("Rewards")]
     [SerializeField] private float maxRewardCheckpoints = 1.0f;
     [SerializeField] private float multiplierCheckpointRewardOffroad = 0.5f;
-    [SerializeField] private float maxRewardCompletion = 1.0f;
+    [SerializeField] private float rewardCompletion = 1.0f;
 
     private int currentCheckpointIndex = 0;
     private List<Checkpoint> checkpoints = new List<Checkpoint>();
@@ -64,7 +64,7 @@ public class CheckpointManager : MonoBehaviour
 
         if (currentCheckpointIndex >= checkpoints.Count)
         {
-            agent.AddReward(maxRewardCompletion);
+            agent.AddReward(rewardCompletion);
             Debug.Log("Cumulative Reward = " + agent.GetCumulativeReward());
             currentCircuit.onCircuitFinished.Invoke(agent, currentCircuit);
         }
