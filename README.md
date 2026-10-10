@@ -60,6 +60,13 @@ In **Unity**
 - Unity 6 *v6000.3.9f1*
 - [ML Agents Plugin](https://docs.unity3d.com/Packages/com.unity.ml-agents@4.0/manual/index.html) *(version 4.0.2)*
 
+## Citation and Details
+
+This work as been published as a short paper at IEEE CoG 2026:
+```bibtex
+B. Bachelet, V. Devine, M. Erbisti, O. Lise, A. Lherbier and A. Chambon, "Evaluating transfer learning for reinforcement learning agents across same-genre video games," IEEE Conference on Games 2026, Madrid, Spain, 2026
+```
+
 ## Credits
 - [Bryan BACHELET](https://www.linkedin.com/in/bryan-bachelet/)
 - [Vincent DEVINE](https://www.linkedin.com/in/vincent-devine/)
@@ -67,6 +74,10 @@ In **Unity**
 - [Omaya LISE](https://www.linkedin.com/in/omaya-lise/)
 - [Aurelien CHAMBON](https://www.linkedin.com/in/aurelien-chambon/)
 - [Aurélien LHERBIER](https://www.linkedin.com/in/aur%C3%A9lien-lherbier-a344993b/)
+
+## ⚖️ License
+
+MIT — see [LICENSE](LICENSE). Use it, hack it, ship it. Just don't blame me when your hexapod achieves sentience and files for emancipation.
 
 ### Assets
 - [Dreamteck Spline by Dreamteck](https://assetstore.unity.com/packages/tools/utilities/dreamteck-splines-61926)
